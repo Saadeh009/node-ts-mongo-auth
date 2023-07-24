@@ -1,0 +1,12 @@
+# .gitignore
+
+# Ignore environment variables file
+.env
+
+# Ignore Node.js modules
+node_modules/
+
+# Ignore compiled TypeScript files
+dist/
+
+# Ignore any other files you want to exclude from version control
