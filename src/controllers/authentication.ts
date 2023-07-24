@@ -37,6 +37,8 @@ export const login = async (req: express.Request, res: express.Response) => {
   }
 };
 
+//test for git
+
 export const register = async (req: express.Request, res: express.Response) => {
   try {
     const { email, password, username } = req.body;
